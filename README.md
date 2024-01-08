@@ -5,9 +5,9 @@
 
 👯 I'm interested in collaborating on web development projects.
 
-🤝 I'm looking for help with improving my coding skills and learning new technologies.
+🌱 I'm currently learning JavaScript, HTML, and CSS to enhance my web development skills.
 
-🌱 I'm currently learning [specific technologies or programming languages].
+⚡ Fun fact: I find the concept of artificial intelligence fascinating and how it is revolutionizing various industries.
 
 💬 Feel free to ask me about web development, programming languages, or any related topics.
 
