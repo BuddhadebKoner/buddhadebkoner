@@ -1,5 +1,26 @@
 # 💫 About Me:
-🔭Pueswing B.Tech in CSE<br>👯 I’m looking to collaborate on Webdev<br>🤝 I’m looking for help with <br>🌱 I’m currently learning<br>💬 Ask me about<br>⚡ Fun fact
+### Hi there, I'm [Your Name] 👋
+
+🔭 I'm currently pursuing a B.Tech in Computer Science and Engineering.
+
+👯 I'm interested in collaborating on web development projects.
+
+🤝 I'm looking for help with improving my coding skills and learning new technologies.
+
+🌱 I'm currently learning [specific technologies or programming languages].
+
+💬 Feel free to ask me about web development, programming languages, or any related topics.
+
+⚡ Fun fact: [Share an interesting fact about yourself or something you find fascinating.]
+
+You can reach out to me through the following platforms:
+
+- Email: [Your Email]
+- LinkedIn: [Your LinkedIn Profile]
+- Website: [Your Personal Website or Portfolio]
+
+Let's connect and work together on exciting web development projects! 🚀
+
 
 
 # 💻 Tech Stack:
